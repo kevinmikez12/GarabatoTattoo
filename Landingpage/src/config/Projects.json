@@ -1,0 +1,35 @@
+{
+    "projects": [
+    {
+        "title":"Project 1",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptas nihil beatae? Quia, reprehenderit necessitatibus.",
+        "image":"images/ipaddraw.svg"
+    },
+    {
+        "title":"Project 2",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptas nihil beatae? Quia, reprehenderit necessitatibus.",
+        "image":"images/ipaddraw.svg"
+    },
+    {
+        "title":"Project 3",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptas nihil beatae? Quia, reprehenderit necessitatibus.",
+        "image":"images/ipaddraw.svg"
+    },
+    {
+        "title":"Project 4",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptas nihil beatae? Quia, reprehenderit necessitatibus.",
+        "image":"images/ipaddraw.svg" 
+    }
+    ],
+
+    "users":[
+        {
+            "name":"kevin",
+            "lastname": "hernandez"
+        },
+        {
+            "name": "jason",
+            "lastname": "lopez"
+        }
+    ]
+}
