@@ -9,5 +9,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://kevinmikez12.github.io',
-  base: '/GarabatoTattoo',
+  base: '/GarabatoTattoo/',
 });
